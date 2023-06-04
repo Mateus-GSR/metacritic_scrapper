@@ -1,5 +1,5 @@
- <h1>Project README</h1>
-  <h2>Movie Data Scraping from Metacritic</h2>
+ <h1>Movie Data Scraping from Metacritic</h1>
+
   <p>This project is focused on scraping movie data from Metacritic using Python. The code provided demonstrates the process of scraping movie information such as title, director, genres, ratings, runtime, cast, distributor, release date, summary, metascore, userscore, and related ratings.</p>
   <h3>Prerequisites</h3>
   <p>To run this code, you need to have the following dependencies installed:</p>
