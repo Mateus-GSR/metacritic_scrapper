@@ -39,6 +39,6 @@
     <li>Run the code.</li>
     <li>Once completed, you will have two CSV files: "movies_href.csv" containing the scraped movie URLs and "movies_metadata_metacritic.csv" containing the scraped movie metadata.</li>
   </ol>
-  <p>Please note that scraping websites may be subject to legal restrictions, and you should ensure that you comply with the website's terms of service and relevant laws and regulations.</p>
+
 </body>
 </html>
